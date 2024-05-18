@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Maham Tariq
+    👩‍💻 Software Engineer exploring the intersection of technology and creativity. I'm currently a Computer Science student at the University of Guelph.
 
-
+    🎓 Passionate about backend development, with a flair for front-end design. 
 
 
 
