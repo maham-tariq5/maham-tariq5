@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Maham Tariq, a passionate and innovative Computer Science student at the University of Guelph.
+## 👋 Hi, I'm Maham Tariq
+
+
 
 
 
