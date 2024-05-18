@@ -1,4 +1,4 @@
-### Hi I'm Maham!, a computer science student at the University of Guelph
+### Hi I'm Maham! a computer science student at the University of Guelph
 
 <!--
 **maham-tariq5/maham-tariq5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
