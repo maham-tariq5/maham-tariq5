@@ -1,8 +1,10 @@
-## 👋 Hi, I'm Maham Tariq
+## 👋 Hi, I'm Maham!
 
 👩‍💻 Software Engineer exploring the intersection of technology and creativity. I'm currently a Computer Science student at the University of Guelph.
 
 📚 Currently expanding my knowledge on machine learning and data science.
+
+🎸 Outside of tech, I'm an avid guitar player, dedicated to mastering the art of music.
 
 
 
