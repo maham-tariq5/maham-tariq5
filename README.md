@@ -1,4 +1,6 @@
-### Hi I'm Maham! 
+## Maham Tariq
+
+
 
 
 # 💻 Tech Stack:
