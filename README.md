@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Maham Tariq, a passionate and innovative Computer Science student at the University of Guelph, graduating in 2027. I specialize in backend development but am equally skilled in front-end design, creating solutions that are both functional and visually appealing.
+## 👋 Hi, I'm Maham Tariq, a passionate and innovative Computer Science student at the University of Guelph.
 
 
 
