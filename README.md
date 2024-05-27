@@ -10,6 +10,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,jquery)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
