@@ -7,7 +7,7 @@
 🎸 Outside of tech, I'm an avid guitar player, dedicated to mastering the art of music.
 
 # 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sqlite)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
