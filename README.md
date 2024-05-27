@@ -9,7 +9,7 @@
 # 💻 Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sqlite,vscode,git,docker,jquery,linux,gradle,pycharm&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sqlite,vscode,git,docker,jquery,linux,gradle,pycharm,flask,&perline=8)](https://skillicons.dev)
 
 
 
