@@ -8,7 +8,7 @@
 
 # 💻 Skills
 
-    Languages:
+Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,html,css,javascript,r,sqlite)](https://skillicons.dev)
 
 
