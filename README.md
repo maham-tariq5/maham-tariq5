@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Maham!
 
-👩‍💻 Software Developer exploring the intersection of technology and creativity. I'm currently a Computer Science student at the University of Guelph.
+👩‍💻 Software Developer exploring the intersection of technology and creativity. I'm currently a 3rd year Computer Science student
 
-📚 Presently, expanding my knowledge on machine learning and data science.
+📚 Presently, a research assistant in the department of College of Engineering & Physical Sciences at the University of Guelph
 
 🎸 Outside of tech, I'm an avid guitar player
 
