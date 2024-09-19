@@ -2,7 +2,7 @@
 
 👩‍💻 Software Developer exploring the intersection of technology and creativity. I'm currently a 3rd year Computer Science student
 
-📚 Presently, a research assistant in the department of College of Engineering & Physical Sciences at the University of Guelph
+📚 Presently, a QA Test Analyst Intern at CIBC
 
 🎸 Outside of tech, I'm an avid guitar player
 
